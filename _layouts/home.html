@@ -16,7 +16,12 @@
     <div class="has-text-centered">
         {{ post.content }}
     </div>
-
+    <div class="social-share">
+        <h2 class="subtitle is-4">Share this post:</h2>
+        <a href="https://twitter.com/share?url={{ page.url }}&text={{ post.title }}" class="button is-link">Twitter</a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}" class="button is-link">Facebook</a>
+    </div>
+    
     <hr>
 {% endfor %}
 

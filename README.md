@@ -29,4 +29,4 @@ According to the official website [https://hacktoberfest.digitalocean.com](https
 2. Add a CONTRIBUTING.md
 3. Establish a Code of Conduct (an example is within CONTRIBUTING.md)
 
-If you want to see a guide on how the Pull Request is done see this [link](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
+If you want to see a guide on how the Pull Request is done see this [link](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github). 
